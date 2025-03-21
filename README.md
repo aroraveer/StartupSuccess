@@ -1,2 +1,5 @@
 # StartupSuccess
-Startup Success Prediction using Machine Learning 
+Hi there - thank you again for this opportunity and for looking into my work! The project files I have attached in this repository are of a project I completed as a part of a Machine Learning course at UC Berkeley. In this project, my group and I apply ML Methodologies on webscraped data from PitchBook to predict the future success of early-stage startups. We defined 'success' as a startup reaching a valuation of $100M+. In this project, we extract, clean and perform Feature Engineering on the PitchBook data before applying Logistic Regression, Random Forest, Gradient Boosting and CART modeling. Given that we feature engineered over 800 features into a structured, tabular format we limited the scope of this project to using Tree-based and Ensemble modeling. As a part of our current and final Machine Learning course we will be going deeper with the NLP methodologies we applied here to apply Neural Networks to these predictions. I am attaching our final report as well, and I hope you enjoy reading! 
+
+[📄 View Full Project Report (PDF)](./MachineLearning_StartupPrediction.pdf)
+
